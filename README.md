@@ -1,2 +1,2 @@
-# Clipboard-Health-
+# Clipboard-Health
 Clipboard Health Next Steps - Coding Exercise
